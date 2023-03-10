@@ -1,0 +1,16 @@
+Vasya,Pupkin,10,4982,mees
+Olga,Vorontsova,89,1009,naine
+Li,Cheng,41,8786,mees
+Hur,Ma,2,2718,vili
+Buffonische,Futbolische,38,3773,mees
+Donna,Solj,25,7088,naine
+Jo,Pa,1,8849,naine
+Gadja,Hrenova,8,1234,borodataja,naine
+Anton,Kopilka,63,2002,mees
+Ptica,Govorun,7,0987,naine
+Nikolai,Valuev,60,6666,mees
+Andeas,Pung,22,1469,mees
+Cordellia,Paap,13,3523,naine
+Erik,Kippus,89,0518,mees
+Irina,Soponaru,30,8726,naine
+Alex,Yakushev,45,6563,mees
