@@ -15,7 +15,7 @@ dependencies {
     testRuntimeOnly("org.junit.platform:junit-platform-engine")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 
-    testImplementation("org.assertj:assertj-core:3.27.5")
+    testImplementation("org.assertj:assertj-core:3.27.6")
 }
 
 tasks.getByName<Test>("test") {
